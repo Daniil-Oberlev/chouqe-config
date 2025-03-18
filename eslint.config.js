@@ -93,7 +93,6 @@ export default tseslint.config({
     'no-duplicate-imports': 'error',
     'no-var': 'error',
     'eqeqeq': 'error',
-    'no-console': 'warn',
-    'react-hooks/exhaustive-deps': 'warn'
+    'no-console': 'warn'
   }
 })
